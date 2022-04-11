@@ -32,3 +32,4 @@ Run:
 ```
 ./eval.sh
 ```
+For `path_A`, `path_B`, `model_A` and `model_B` we use in code, you can simply use the same path and model for A and B (we did some experiments with 2 different models but the results are not good).
