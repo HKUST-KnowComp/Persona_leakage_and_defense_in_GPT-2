@@ -12,3 +12,4 @@ Code for NAACL 2022 paper "You Don’t Know My Favorite Color: Preventing Dialog
 
 
 ### Data
+All data files used are put in the [processed_persona](https://github.com/HKUST-KnowComp/Persona_leakage_and_defense_in_GPT-2/tree/main/processed_persona) folder. You can find more descirptions about data in the folder.
